@@ -3,7 +3,7 @@ from _thread import *
 import pickle
 from game import Game
 
-server = "10.0.0.22"
+server = "10.0.0.19"
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
